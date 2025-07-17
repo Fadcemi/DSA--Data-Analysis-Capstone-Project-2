@@ -29,9 +29,10 @@ Dataset and Project Brief can be gotten [here]()
 
 ● I assigned a generic gender status (Undisclosed) to employees that refused to disclose their gender.
 
-● I removed employees without salary (because it indicates they are no longer with the company), departments that indicated as “NULL”. I also removed duplicates from the dataset thus giving us 6 columns 943 rows
+●  Employees without salary (because it indicates they are no longer with the company) and departments that indicated as “NULL” were removed.  Also removed are duplicates from the dataset thus giving us 6 columns 923 rows
 
-● I had to get the bonus salary for each employee,so I loaded the bonus details dataset which had 6 columns and 12 rows. I unpivoted the rating columns givng me a total of 3 columns and 60 rows after which I then merged both the bonus details and employee details together using department and rating column. Leaving us with 7 columns 943 rows. (Since I merged already, I disabled the bonus dataset from loading into powerbi)
+● In order to get the bonus salary for each employee, I loaded the bonus mapping dataset which had 6 columns and 12 rows, unpivoted the rating columns giving me a total of 3 columns and 60 rows. The bonus details and employee details were merged using department and rating columns. Finally those not rated were assigned zero(0),
+leaving us a cleaned table with 7 columns 923 rows. 
 
 ● I then loaded into powerbi desktop 
 
