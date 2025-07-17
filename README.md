@@ -38,3 +38,128 @@ Dataset and Project Brief can be gotten [here]()
 ● I created some new measures to help in my analysis
 
 ● I also created a new column 'Salary Range' to group the salaries in a band of #30k
+
+# Data Visualisation
+<img width="709" alt="Gender dashboard" src="https://user-images.githubusercontent.com/105246702/191849429-3ce84046-e1bf-4496-97f4-02a4a850d0e9.png">
+
+Interact with dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjM1Y2VkZGYtZjM3Ny00ZDUwLTlmNzQtNjg3MTM4NDZiNmQ0IiwidCI6IjBjZmU3YmI2LTZhMzUtNDM4OS1hODQ4LTU1ZTdjZjZlN2NmMSJ9)
+
+# Analysis
+
+⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up only about 4% of the total employees.
+
+### Gender Distribution
+  ● General Overview
+
+There is a total of 943 employees, 464 Males, 440 Females and 39 undisclosed.
+
+<img width="128" alt="GENDER DISTRIBUTION" src="https://user-images.githubusercontent.com/105246702/191838029-7f508b4e-c330-4485-9605-fea0f34817ee.png">
+
+Gender distribution is fair in the company with Males being 2% more than females and about 4% of employees did not disclose their gender.
+
+<img width="190" alt="overall gender distribution" src="https://user-images.githubusercontent.com/105246702/191838078-6918e522-1704-4436-a85f-a586f395935d.png">
+
+  ● Regions
+  
+Abuja has a balanced proportion of Males and Females with 158 each.
+
+Kaduna is the region with the widest gender gap with 18 more Males than Females.
+
+Lagos also has 6 more Males than Females.
+
+<img width="185" alt="GENDER DISTRIBUTION by region" src="https://user-images.githubusercontent.com/105246702/191838182-e08dd2a8-02f3-419d-8ca6-ac728274c979.png">
+
+  ● Department
+  
+Considering Male and Female Gender, Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
+
+In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 1 respectively
+
+Futher Analysis shows that of the Top 5 departments with most gap, Research and developemtent is the only department where the Females are more than Males, the remaning 4 have more males.
+Other departments with more females are Services, business development, Human Resources, Engineering.
+
+<img width="201" alt="GENDER DISTRIBUTION by department" src="https://user-images.githubusercontent.com/105246702/191838285-06e8bbff-215d-42e4-b2a8-ab7ae53aa427.png">
+
+
+### Rating
+Tho Rating was fairly distibuted among the genders.
+
+Males had more very poor,poor and average rating while females lead in the good and very good category
+
+<img width="381" alt="Rating by gender" src="https://user-images.githubusercontent.com/105246702/191838392-4a6f2a63-4235-4d00-9d17-288205de283f.png">
+
+
+### Salary
+  ● General Overview
+  
+Total Salary to be Paid out by the company is #71.74M incuding bonus, bonus salary is about #2.19M and salary without bonus is #69.54M
+
+The average salary is #73,747
+
+<img width="115" alt="salary company" src="https://user-images.githubusercontent.com/105246702/191838457-72752c48-795f-4e07-8059-0dc62229cee0.png">
+
+Average salary among the genders is fairly distributed
+
+<img width="191" alt="average salary" src="https://user-images.githubusercontent.com/105246702/191838746-addf82c3-3eaf-4db6-9c90-23cb23a82ad1.png">
+
+  ● Regions
+  
+Kaduna Total Salary is #24.79M, Abuja is #27.42M and Lagos Total Salary is #19.53M
+
+<img width="187" alt="salary regional" src="https://user-images.githubusercontent.com/105246702/191838574-e9a43293-621c-4ae8-ac03-920a84366f28.png">
+
+  ● Department
+  
+In most departments, the Males earn more except 3 departments where females earn more Training, Marketing and Engineering
+
+<img width="187" alt="Salary department" src="https://user-images.githubusercontent.com/105246702/191838825-a2532190-144c-428d-ab98-e0b4136d1315.png">
+
+  ● Salary Range
+  
+Grouping the salaries by a band of #30k. Most employees earn within the range 61k to 90k, and least earn within 1k to 30k.
+
+<img width="207" alt="salary range" src="https://user-images.githubusercontent.com/105246702/191840470-fd663365-f28d-4e37-9030-c9f48413242b.png">
+
+  ● Minimum Salary requirment
+  
+There was a recent regulation which requires manufacturing companies to pay employees a minimum of #90,000.
+
+Palmoria group falls short of this, with about 69% of the workers earning less than the minimum requirment
+
+<img width="183" alt="90k" src="https://user-images.githubusercontent.com/105246702/191842435-1afd415c-fb20-414a-b9ed-82df8ca13362.png">
+
+  ● Pay and Gender Gap
+  
+<img width="709" alt="Gap" src="https://user-images.githubusercontent.com/105246702/191849813-78c5e40b-8d23-4cf1-b709-038a7735afe4.png">
+
+
+# Findings
+•	Gender is fairly distributed throughout the organization.
+
+•	Kaduna region has the widest gender gap, followed by Lagos. Distribution was equal in Lagos.
+
+•	Legal, Accounting, Support, Research and developemtent and Product Management department has a wide gender gap.
+
+• Marketing, Engineering and Training department gender is fairly distributed.
+
+•	Average salary for the employees is fairly distributed among the genders.
+
+•	In most departments the pay gap is more than 5% between both male and female gender.
+
+•	More males earn more than the minimum requirment(#90,000) compared to females.
+
+•	Employees ratings are fairly distributed across the genders.
+
+•	Majority of the employees earn salaries below the minimum requirement 
+
+
+# Recommendation
+•	Gender distribution should be improved in Kaduna, Lagos region.
+
+•	Gender distribution should also be improved in Legal, Accounting, Support, Research and developemtent and Product Management department.
+
+•	The salary structure should be reviewed to ensure the minimum salary requirement is met.
+
+•	The salary gap between males and females should be reviewed for fairness.
+
+•	Survey should be carried out to find out why the females have better ratings than the males, and plans should be in place to train the employees.
