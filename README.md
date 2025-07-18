@@ -41,9 +41,8 @@ leaving us a cleaned table with 7 columns 923 rows.
 ● I also created a new column 'Salary Range' to group the salaries in a band of #30k
 
 # Data Visualisation
-<img width="709" alt="Gender dashboard" src="https://user-images.githubusercontent.com/105246702/191849429-3ce84046-e1bf-4496-97f4-02a4a850d0e9.png">
+![Gender Distributuin in org](https://github.com/user-attachments/assets/9f8afc78-784f-4637-ae08-a437a6dccf19)
 
-Interact with dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjM1Y2VkZGYtZjM3Ny00ZDUwLTlmNzQtNjg3MTM4NDZiNmQ0IiwidCI6IjBjZmU3YmI2LTZhMzUtNDM4OS1hODQ4LTU1ZTdjZjZlN2NmMSJ9)
 
 # Analysis
 
@@ -52,13 +51,11 @@ Interact with dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjM1Y2VkZG
 ### Gender Distribution
   ● General Overview
 
-There is a total of 943 employees, 464 Males, 440 Females and 39 undisclosed.
+There is a total of 923 employees, 464 Males, 440 Females and 39 undisclosed.
 
-<img width="128" alt="GENDER DISTRIBUTION" src="https://user-images.githubusercontent.com/105246702/191838029-7f508b4e-c330-4485-9605-fea0f34817ee.png">
+![Gender Distributuin in org](https://github.com/user-attachments/assets/feba8026-e932-4e3a-8577-b75619c2736d)
 
 Gender distribution is fair in the company with Males being 2% more than females and about 4% of employees did not disclose their gender.
-
-<img width="190" alt="overall gender distribution" src="https://user-images.githubusercontent.com/105246702/191838078-6918e522-1704-4436-a85f-a586f395935d.png">
 
   ● Regions
   
@@ -68,10 +65,11 @@ Kaduna is the region with the widest gender gap with 18 more Males than Females.
 
 Lagos also has 6 more Males than Females.
 
-<img width="185" alt="GENDER DISTRIBUTION by region" src="https://user-images.githubusercontent.com/105246702/191838182-e08dd2a8-02f3-419d-8ca6-ac728274c979.png">
 
   ● Department
   
+![Distribution by Department](https://github.com/user-attachments/assets/aaafc3b4-562e-419f-b2db-e1f11a474f48)
+
 Considering Male and Female Gender, Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
 
 In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 1 respectively
@@ -79,16 +77,13 @@ In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 
 Futher Analysis shows that of the Top 5 departments with most gap, Research and developemtent is the only department where the Females are more than Males, the remaning 4 have more males.
 Other departments with more females are Services, business development, Human Resources, Engineering.
 
-<img width="201" alt="GENDER DISTRIBUTION by department" src="https://user-images.githubusercontent.com/105246702/191838285-06e8bbff-215d-42e4-b2a8-ab7ae53aa427.png">
-
 
 ### Rating
 Tho Rating was fairly distibuted among the genders.
 
 Males had more very poor,poor and average rating while females lead in the good and very good category
 
-<img width="381" alt="Rating by gender" src="https://user-images.githubusercontent.com/105246702/191838392-4a6f2a63-4235-4d00-9d17-288205de283f.png">
-
+![Gender Rating](https://github.com/user-attachments/assets/c20dc99b-094e-4849-a5a7-5bb157035f30)
 
 ### Salary
   ● General Overview
