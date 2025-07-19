@@ -53,7 +53,8 @@ leaving us a cleaned table with 7 columns 923 rows.
 
 There is a total of 923 employees, 464 Males, 440 Females and 39 undisclosed.
 
-![Gender Distributuin in org](https://github.com/user-attachments/assets/feba8026-e932-4e3a-8577-b75619c2736d)
+
+![gender distribution by region ](https://github.com/user-attachments/assets/902bad9f-ef77-4b35-8b76-efff93683c56)
 
 Gender distribution is fair in the company with Males being 2% more than females and about 4% of employees did not disclose their gender.
 
@@ -68,7 +69,7 @@ Lagos also has 6 more Males than Females.
 
   ● Department
   
-![Distribution by Department](https://github.com/user-attachments/assets/aaafc3b4-562e-419f-b2db-e1f11a474f48)
+![gender distribution](https://github.com/user-attachments/assets/a13749d0-94e6-454f-bc23-b4e818e61e22)
 
 Considering Male and Female Gender, Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
 
@@ -83,7 +84,7 @@ Tho Rating was fairly distibuted among the genders.
 
 Males had more very poor,poor and average rating while females lead in the good and very good category
 
-![Gender Rating](https://github.com/user-attachments/assets/c20dc99b-094e-4849-a5a7-5bb157035f30)
+![rating](https://github.com/user-attachments/assets/d29e8587-1557-43ca-b77c-aebb427be4cc)
 
 ### Salary
   ● General Overview
@@ -92,29 +93,24 @@ Total Salary to be Paid out by the company is #71.74M incuding bonus, bonus sala
 
 The average salary is #73,747
 
-<img width="115" alt="salary company" src="https://user-images.githubusercontent.com/105246702/191838457-72752c48-795f-4e07-8059-0dc62229cee0.png">
+![salary structure](https://github.com/user-attachments/assets/5b6c8aae-330a-448d-899c-634d0d56319c)
 
 Average salary among the genders is fairly distributed
-
-<img width="191" alt="average salary" src="https://user-images.githubusercontent.com/105246702/191838746-addf82c3-3eaf-4db6-9c90-23cb23a82ad1.png">
 
   ● Regions
   
 Kaduna Total Salary is #24.79M, Abuja is #27.42M and Lagos Total Salary is #19.53M
 
-<img width="187" alt="salary regional" src="https://user-images.githubusercontent.com/105246702/191838574-e9a43293-621c-4ae8-ac03-920a84366f28.png">
-
   ● Department
   
 In most departments, the Males earn more except 3 departments where females earn more Training, Marketing and Engineering
-
-<img width="187" alt="Salary department" src="https://user-images.githubusercontent.com/105246702/191838825-a2532190-144c-428d-ab98-e0b4136d1315.png">
 
   ● Salary Range
   
 Grouping the salaries by a band of #30k. Most employees earn within the range 61k to 90k, and least earn within 1k to 30k.
 
-<img width="207" alt="salary range" src="https://user-images.githubusercontent.com/105246702/191840470-fd663365-f28d-4e37-9030-c9f48413242b.png">
+
+![range](https://github.com/user-attachments/assets/37b3fa9b-8830-497b-b845-e70cb403e41e)
 
   ● Minimum Salary requirment
   
@@ -122,11 +118,11 @@ There was a recent regulation which requires manufacturing companies to pay empl
 
 Palmoria group falls short of this, with about 69% of the workers earning less than the minimum requirment
 
-<img width="183" alt="90k" src="https://user-images.githubusercontent.com/105246702/191842435-1afd415c-fb20-414a-b9ed-82df8ca13362.png">
+![range by dept](https://github.com/user-attachments/assets/fe4c5a42-d748-4d43-931f-a957c827488d)
 
   ● Pay and Gender Gap
   
-<img width="709" alt="Gap" src="https://user-images.githubusercontent.com/105246702/191849813-78c5e40b-8d23-4cf1-b709-038a7735afe4.png">
+  ![table](https://github.com/user-attachments/assets/eb330e98-f8b9-4c3c-84dc-0a008c9000a6)
 
 
 # Findings
