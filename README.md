@@ -41,8 +41,7 @@ leaving us a cleaned table with 7 columns 923 rows.
 ● I also created a new column 'Salary Range' to group the salaries in a band of #30k
 
 # Data Visualisation
-![Gender Distributuin in org](https://github.com/user-attachments/assets/9f8afc78-784f-4637-ae08-a437a6dccf19)
-
+[All images.pdf](https://github.com/user-attachments/files/21330856/All.images.pdf)
 
 # Analysis
 
