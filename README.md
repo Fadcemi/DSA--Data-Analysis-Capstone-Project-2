@@ -13,8 +13,8 @@ PowerBI Case study solutions
 1. Gender distribution in the organization
 2. Insights on ratings based on gender
 3. Company’s salary structure. To identify if there is a gender pay gap. If there is, the department and regions that should be the focus of management.
-4. If Palmoria meets the requirement of manufacturing companies paying employees a minimum of #90,000
-5. Pay distribution of employees grouped by a band of #30,000.
+4. If Palmoria meets the requirement of manufacturing companies paying employees a minimum of $90,000
+5. Pay distribution of employees grouped by a band of $10,000.
 5. Allocation of the annual bonus pay to employees based on the performance rating.
 - Amount to be paid as bonus to individual employees
 - Total amount to be paid to individual employees (salary inclusive of bonus)
