@@ -22,7 +22,7 @@ PowerBI Case study solutions
 
 
 # Data Sourcing
-Dataset and Project Brief can be gotten [here]()
+Dataset and Project Brief can be gotten [Here](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-2/blob/main/MY%20PROJECT.pbix)
 
 # Data Transformation
 ● I loaded the employee dataset into Power Query which had 6 columns 1016 rows
