@@ -36,63 +36,63 @@ leaving us a cleaned table with 7 columns 923 rows.
 
 ● I then loaded into powerbi desktop 
 
-● I created some new measures to help in my analysis
+● I created some new measures to help in ascertaining the average, minimum salary etc
 
-● I also created a new column 'Salary Range' to group the salaries in a band of #30k
+● I also created a new column 'Salary Range' to group the salaries in a band of #10k
 
 # Data Visualisation
+![All images](https://github.com/user-attachments/assets/ff3d0652-567d-46c1-911c-f8c4026ae72a)
 
-![All images](https://github.com/user-attachments/assets/1c37232a-86b0-4ac8-8b87-ea688cf16700)
+
 
 
 # Analysis
 
-⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up only about 4% of the total employees.
+⚠ N.B: The undisclosed gender category may affect the accuracy of this analysis. However, they make up only about 4.23% of the total employees.
 
 ### Gender Distribution
   ● General Overview
 
-There is a total of 923 employees, 464 Males, 440 Females and 39 undisclosed.
+There is a total of 923 employees, 452 Males, 432 Females and 39 undisclosed.
 
 
 ![gender distribution by region ](https://github.com/user-attachments/assets/902bad9f-ef77-4b35-8b76-efff93683c56)
 
-Gender distribution is fair in the company with Males being 2% more than females and about 4% of employees did not disclose their gender.
+Gender distribution is fair in the company with Males being 2% more than females and about 4.23% of employees did not disclose their gender.
 
   ● Regions
   
-Abuja has a balanced proportion of Males and Females with 158 each.
+Abuja has a balanced proportion of Males and Females with 154 each.
 
-Kaduna is the region with the widest gender gap with 18 more Males than Females.
+Kaduna is the region with the widest gender gap with 15 more Males than Females.
 
-Lagos also has 6 more Males than Females.
+Lagos also has 5 more Males than Females.
 
 
   ● Department
   
 ![gender distribution](https://github.com/user-attachments/assets/a13749d0-94e6-454f-bc23-b4e818e61e22)
 
-Considering Male and Female Gender, Legal, Accounting, Support, Research and developemtent and Product Management are the top 5 departments with the most gender gaps each with a gap difference of 15,9,8,7,6 difference respectively.
+Considering Male and Female Gender, Legal, Accounting and Support are departments with the most gender gaps dominated by males.
 
-In Marketing, Engineering and Training it's fairly distributed with gap of 2,2, 1 respectively
+In Marketing, Engineering, Product Management and Training, the gender is fairly distributed.
 
-Futher Analysis shows that of the Top 5 departments with most gap, Research and developemtent is the only department where the Females are more than Males, the remaning 4 have more males.
-Other departments with more females are Services, business development, Human Resources, Engineering.
+Futher analysis shows that Services and Research and development are departments where the Females are more than Males.
 
 
 ### Rating
 Tho Rating was fairly distibuted among the genders.
 
-Males had more very poor,poor and average rating while females lead in the good and very good category
+Males dominated the very poor,poor and average rating while females lead in the not rated, good and very good category.
 
 ![rating](https://github.com/user-attachments/assets/d29e8587-1557-43ca-b77c-aebb427be4cc)
 
 ### Salary
   ● General Overview
   
-Total Salary to be Paid out by the company is #71.74M incuding bonus, bonus salary is about #2.19M and salary without bonus is #69.54M
+Total of the New Salary to be Paid out by the company is $70.712M including bonus, bonus salary is about $2.14M while salary without bonus is $67.98M
 
-The average salary is #73,747
+The average salary is $75.97k
 
 ![salary structure](https://github.com/user-attachments/assets/5b6c8aae-330a-448d-899c-634d0d56319c)
 
@@ -100,28 +100,28 @@ Average salary among the genders is fairly distributed
 
   ● Regions
   
-Kaduna Total Salary is #24.79M, Abuja is #27.42M and Lagos Total Salary is #19.53M
+Kaduna Total Salary is $26.79M, Abuja is $24.17M and Lagos Total Salary is $19.15M
 
   ● Department
   
-In most departments, the Males earn more except 3 departments where females earn more Training, Marketing and Engineering
+In most departments, the Males earn more except 3 departments where females earn more that is Training, Marketing and Engineering
 
   ● Salary Range
   
-Grouping the salaries by a band of #30k. Most employees earn within the range 61k to 90k, and least earn within 1k to 30k.
+Grouping the salaries by a band of #10k. Most employees earn within the range 70k to 80k, and least earn within 20k to 30k.
 
 
 ![range](https://github.com/user-attachments/assets/37b3fa9b-8830-497b-b845-e70cb403e41e)
 
   ● Minimum Salary requirment
   
-There was a recent regulation which requires manufacturing companies to pay employees a minimum of #90,000.
+Considering the recent regulation which requires manufacturing companies to pay employees a minimum of $90,000.
 
-Palmoria group falls short of this, with about 69% of the workers earning less than the minimum requirment
+Palmoria group falls short of this, with about 69.12% of the workers earning less than the minimum requirment
 
 ![range by dept](https://github.com/user-attachments/assets/fe4c5a42-d748-4d43-931f-a957c827488d)
 
-  ● Pay and Gender Gap
+  ● Computation for the bonus and New Salary
   
   ![table](https://github.com/user-attachments/assets/eb330e98-f8b9-4c3c-84dc-0a008c9000a6)
 
@@ -129,9 +129,9 @@ Palmoria group falls short of this, with about 69% of the workers earning less t
 # Findings
 •	Gender is fairly distributed throughout the organization.
 
-•	Kaduna region has the widest gender gap, followed by Lagos. Distribution was equal in Lagos.
+•	Kaduna region has the widest gender gap, followed by Lagos while distribution is equal in Abuja.
 
-•	Legal, Accounting, Support, Research and developemtent and Product Management department has a wide gender gap.
+•	Legal, Accounting and Support departments has a wide gender gap in favour of male.
 
 • Marketing, Engineering and Training department gender is fairly distributed.
 
@@ -139,7 +139,7 @@ Palmoria group falls short of this, with about 69% of the workers earning less t
 
 •	In most departments the pay gap is more than 5% between both male and female gender.
 
-•	More males earn more than the minimum requirment(#90,000) compared to females.
+•	More males earn more than the minimum requirment($90,000) compared to females.
 
 •	Employees ratings are fairly distributed across the genders.
 
@@ -147,9 +147,9 @@ Palmoria group falls short of this, with about 69% of the workers earning less t
 
 
 # Recommendation
-•	Gender distribution should be improved in Kaduna, Lagos region.
+•	Gender distribution should be improved in Kaduna region.
 
-•	Gender distribution should also be improved in Legal, Accounting, Support, Research and developemtent and Product Management department.
+•	Gender distribution should also be improved in Legal, Accounting and Support.
 
 •	The salary structure should be reviewed to ensure the minimum salary requirement is met.
 
